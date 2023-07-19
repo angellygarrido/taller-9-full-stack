@@ -17,3 +17,6 @@
 
 <h2>Punto 4: Soy azul, Soy rojo</h2>
 <img src="./public/images/punto4.png" alt="punto4">
+
+<h2>Punto 5: Párrafo</h2>
+<img src="./public/images/punto5.png" alt="punto5">
