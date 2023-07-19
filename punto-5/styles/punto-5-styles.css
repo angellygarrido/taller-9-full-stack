@@ -1,0 +1,22 @@
+#body{
+    background: none;
+    text-align: justify;
+}
+.green-underline{
+    color: green;
+}
+.red-strong{
+    color: red;
+}
+.destroyer {
+    font-size: 30px;
+}
+.blue{
+    color: blue;
+}
+.red-underline{
+    color: red;
+}
+.understand{
+    text-decoration:overline underline;
+}
