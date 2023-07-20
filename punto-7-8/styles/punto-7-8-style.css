@@ -1,0 +1,24 @@
+body{
+    margin: 10px;
+}
+header{
+    display: flex;
+    justify-content: left;
+    gap: 50px;
+
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    background-color: plum;
+}
+a{
+    color: #fff;
+}
+.start{
+    background: blue;
+    padding: 10px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
