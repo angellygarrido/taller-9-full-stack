@@ -20,12 +20,12 @@ div {
 
 h1 {
   font-size: 58px;
-  color: #0011ff;
+  color: purple;
 }
 
 h2 {
   font-size: 32px;
-  color: #0011ff;
+  color: purple;
 }
 
 nav {
@@ -52,7 +52,7 @@ p {
 a {
   padding: 12px 25px;
   color: #ffffff;
-  background-color: #0011ff;
+  background-color: purple;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -64,5 +64,5 @@ a {
 
 a:hover {
   background-color: #e2e2e2;
-  color: #0011ff;
+  color: purple;
 }
