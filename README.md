@@ -17,7 +17,7 @@
 <img src="./public/images/punto5.png" alt="punto5">
 <h2>Punto 6: Enlaces</h2>
 <img src="./public/images/punto6.png" alt="punto6">
-<h2>Punto 7 y 8: Enlaces</h2>
+<h2>Punto 7 y 8: Navegación</h2>
 <img src="./public/images/punto7y8.png" alt="punto7y8">
-<h2>Punto 9: Enlaces</h2>
+<h2>Punto 9: Tablas</h2>
 <img src="./public/images/punto9.png" alt="punto9">
