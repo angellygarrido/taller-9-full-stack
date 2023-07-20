@@ -1,0 +1,28 @@
+table{
+  table-layout: fixed;  
+  width: 80%;
+  background-color: yellow;
+  border-spacing: 0;
+  border-collapse: collapse;
+  border-top: 1px dotted #000;
+  border-right: 1px dotted #000;
+  border-left: 1px dotted #000;
+}
+th{
+background-color: yellow;
+color: red;
+}
+ .col {
+    width: 20%;
+    text-align: left;
+    border: 1px dotted #000;
+ }
+.age{
+    color: red;
+}
+.weight{
+    color: red;
+}
+.paragraph{
+    border-bottom: 2px dashed red;
+}
